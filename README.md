@@ -1,4 +1,4 @@
-To run the script, cd into <dir_path>/button_challenge_lace/ and run the following command:
+To run the script, cd into <dir_path>/lace_coding_challenge_submission/ and run the following command:
 
 python parser.py
 
